@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Due Saturday, September 14 @ 11:59pm through Github**
+**Due Sunday, September 13 @ 11:59pm through Github**
 
 Your next assignment is to recreate eight plots with the `ggplot` using the subset of `nmes.data` we worked with in class.
 
@@ -65,6 +65,10 @@ G. ![](PlotG.png)
 
 ```
 
+H. ![](PlotH.png) 
+```{r}
+
+```
 
 5. Now knit the file again and be sure it generates a new document with all of your reproduced plots.
 
