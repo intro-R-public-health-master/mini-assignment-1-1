@@ -9,9 +9,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Due Sunday, September 13 @ 11:59pm through Github**
+**Due at the end of class on Monday, September 13 through Github**
 
-Your next assignment is to recreate eight plots with the `ggplot` using the subset of `nmes.data` we worked with in class.
+Your next assignment is to recreate nine plots with the `ggplot` using the subset of `nmes.data` we worked with in class.
 
 **Work through the following items:**
 
@@ -70,12 +70,19 @@ H. ![](PlotH.png)
 
 ```
 
+I. For this one, you may want to check out the [Data Visualization Cheatsheet](https://www.rstudio.com/resources/cheatsheets/#ggplot2){target="_blank"} to look at different geom options.
+
+![](PlotI.png) 
+```{r}
+
+```
+
 5. Now knit the file again and be sure it generates a new document with all of your reproduced plots.
 
 6. If your document successfully knit without error, you are ready to submit your assignment through Github.  To do so, follow the steps below.  (If your document didn't successfully knit, please reach out to me over email at `phbiostats@jhu.edu` so I can help you trouble-shoot the issue.)
 
 * First you need to **commit** the changes you've made to the document.  Click the colorful Git button at the top of the RStudio window and select "Commit" from the menu.
-* In the window that opens, **stage** your changes by clicking the check boxes next to the `Mini1-1.Rmd` and `Mini1-1.html` files.
+* In the window that opens, **stage** your changes by clicking the check boxes next to the `Mini1-1.Rmd` file.
 * In the "Commit message" box, type a short description of what changes you've made, something like: `Completed assignment`
 * Click the "Commit" button on the bottom right.
 * You'll see a window that will tell you about the changes that you've made.  Click "Close" to close the window.  You've successfully committed! You can close this commit window now.
