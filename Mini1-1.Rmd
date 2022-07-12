@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Due at the end of class on Monday, September 13 through Github**
+**Due Thursday, September 15 through Github**
 
 Your next assignment is to recreate nine plots with the `ggplot` using the subset of `nmes.data` we worked with in class.
 
