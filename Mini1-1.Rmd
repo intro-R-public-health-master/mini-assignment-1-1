@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Due Thursday, September 14 through Github**
+**Due Thursday, September 12 through Github**
 
 Your next assignment is to recreate nine plots with the `ggplot` using the subset of `nmes.data` we worked with in class.
 
@@ -70,7 +70,7 @@ H. ![](PlotH.png)
 
 ```
 
-I. For this one, you may want to check out the [Data Visualization Cheatsheet](https://www.rstudio.com/resources/cheatsheets/#ggplot2){target="_blank"} to look at different geom options.
+I. For this one, you may want to check out the [Data Visualization Cheatsheet](https://rstudio.github.io/cheatsheets/data-visualization.pdf){target="_blank"} to look at different geom options.
 
 ![](PlotI.png) 
 ```{r}
