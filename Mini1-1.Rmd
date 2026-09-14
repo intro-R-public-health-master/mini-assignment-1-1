@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Due Thursday, September 11 through Github**
+**Due Thursday, September 17 through Github**
 
 Your next assignment is to recreate nine plots with the `ggplot` using the subset of `nmes.data` we worked with in class.
 
@@ -79,7 +79,7 @@ I. For this one, you may want to check out the [Data Visualization Cheatsheet](h
 
 5. Now knit the file again and be sure it generates a new document with all of your reproduced plots.
 
-6. If your document successfully knit without error, you are ready to submit your assignment through Github.  To do so, follow the steps below.  (If your document didn't successfully knit, please reach out to me over email at `phbiostats@jhu.edu` so I can help you trouble-shoot the issue.)
+6. If your document successfully knit without error, you are ready to submit your assignment through Github.  To do so, follow the steps below.  (If your document didn't successfully knit, please reach out to me over email through Canvas so I can help you trouble-shoot the issue.)
 
 * First you need to **commit** the changes you've made to the document.  Click the colorful Git button at the top of the RStudio window and select "Commit" from the menu.
 * In the window that opens, **stage** your changes by clicking the check boxes next to the `Mini1-1.Rmd` file.
